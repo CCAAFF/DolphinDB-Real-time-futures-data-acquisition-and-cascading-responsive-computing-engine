@@ -1,6 +1,6 @@
 # DolphinDB-Real-time-futures-data-acquisition-and-cascading-responsive-computing-engine
 
-基于Simnow期货实时数据获得单档盘口的流数据，计算买卖压力差因子与结果回测实践案例展示。
+基于Dolphindb接入上期所Simnow期货实时数据获得单档盘口的流数据，计算买卖压力差因子与结果回测实践案例展示。
 
 代码获取需等图书发布后（或者现在联系作者小范围探讨）
 此处代码为《AI驱动下的因子挖掘》一书中的部分代码。
