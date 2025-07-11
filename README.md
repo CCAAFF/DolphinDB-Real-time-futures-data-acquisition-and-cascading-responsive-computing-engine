@@ -9,5 +9,5 @@ Based on real-time data from Simnow futures, obtain flow data for single positio
 Code acquisition needs to wait until the book is published (or contact the author now for a small-scale discussion)
 The code here is a partial code from the book "Factor Mining Driven by AI".
 
-phone：18613367036
-wx：n18613367036
+phone：86-18613367036
+微信：n18613367036
