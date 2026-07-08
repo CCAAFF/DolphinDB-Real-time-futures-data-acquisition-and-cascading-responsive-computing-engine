@@ -8,7 +8,7 @@
 
 个人网页地址：https://ccaaff.github.io/CanlinWang-presentation/
 
-DolphinDB函数总览重构 V0.0.2：https://ccaaff.github.io/dolphindb-easilyfinding/
+DolphinDB函数总览重构 V1.1.0: https://ccaaff.github.io/DolphinDB_Function_Quick_Reference_Guide
 
 Based on real-time data from Simnow futures, obtain flow data for single position positions, calculate buying and selling pressure differential factors, and present practical case studies for backtesting results.
 
@@ -18,4 +18,4 @@ The book is expected to be published between October and December 2026.
 
 Personal webpage address: https://ccaaff.github.io/CanlinWang-presentation/
 
-DolphinDB Function Overview Rebuild V0.0.2: https://ccaaff.github.io/dolphindb-easilyfinding/
+DolphinDB Function Overview Rebuild V1.1.0: https://ccaaff.github.io/DolphinDB_Function_Quick_Reference_Guide
